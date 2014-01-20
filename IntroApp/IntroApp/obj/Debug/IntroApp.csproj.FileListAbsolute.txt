@@ -1,0 +1,5 @@
+C:\Users\al223ec\Desktop\1DV406---Laborationer\IntroApp\IntroApp\bin\IntroApp.dll
+C:\Users\al223ec\Desktop\1DV406---Laborationer\IntroApp\IntroApp\bin\IntroApp.pdb
+C:\Users\al223ec\Desktop\1DV406---Laborationer\IntroApp\IntroApp\obj\Debug\IntroApp.csprojResolveAssemblyReference.cache
+C:\Users\al223ec\Desktop\1DV406---Laborationer\IntroApp\IntroApp\obj\Debug\IntroApp.dll
+C:\Users\al223ec\Desktop\1DV406---Laborationer\IntroApp\IntroApp\obj\Debug\IntroApp.pdb
