@@ -97,14 +97,15 @@ p.inverse-heading {
 }
 
 body {
-   width:50%;
-   margin:0; 
-   left:0; right:0; 
    font-size: 13px;
    font-family: "Roboto";
    font-style: normal;
    font-weight: 400;
 }
+    body div {
+        width:600px;
+        margin:auto;
+    }
 
 p.variation-0 {
    font-family: "Roboto";
